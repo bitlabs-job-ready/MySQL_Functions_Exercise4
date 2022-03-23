@@ -1,0 +1,47 @@
+Consider the following table called “Customer” to write SQL queries for below exercises.  
+
+Before working on exercises create below table and insert records into Customer table. 
+
+Table: Customer
+ 	
+Cust_Id 	Firstname 	Lastname 	City 		DOJ 
+
+c101 		Naveen 		Yadav 		Hyderabad 	12-Dec-21 
+
+c102 		Pavan 		Kumar	 	Pune	 	14-Jan-19 
+
+c101 		Sarath 		Moore 		Pune 		23-Feb-19 
+
+c104 		Pavani 		Reddy 		Hyderabad 	12-Dec-21 
+
+c103 		Bhavani 	Goud 		Bangalore 	11-Mar-20 
+
+c104 		Rajesh 		Varma 		Pune 		12-Apr-19 
+
+c101 		Sumaja 		Naidu 		Bangalore 	20-Jun-20 
+
+c105 		Mahesh 		babu 		Bangalore 	23-Jun-20 
+
+c106 		Kavitha 	Reddy 		Hyderabad 	11-Oct-21 
+
+ 
+
+Exercise: 1 
+
+Write a SQL queries for following 
+
+A. Display current date 
+
+B. Display current time 
+
+C. Display current date and time 
+
+
+Exercise: 2 
+
+Write a SQL query to display number of days from the date of joining from the Customer table. 
+
+
+Exercise: 3 
+
+Write a SQL query to display day, month and year of the DOJ column from the customer table. 
